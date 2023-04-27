@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": " I'm Renautis Patterson. an upcoming game dev in memphis. I like to practice 3D modling, game design, and coming up with new game ideas. I hope to improve my coding skill and make experiences for people to enjoy.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -55,14 +55,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "GameDemo",
+        "startDate": "2023",
+        "description": "Group project about making a wedpage for a game. I had to develop a simple game demo. This was also my first group project . I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/Screenshot 2023-04-17 084140.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://codemell.github.io/GameDemo/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,9 +80,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "MOSAIK SOLUTIONS",
+        "title": "INTERN - DESIGNER/COVERAGE SPECIALIST",
+        "years": "05.2016",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -98,20 +97,20 @@
           "SignalR",
           "Angular Material"
         ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+      },      {
+        "company": "CODECREW",
+        "title": "Student",
+        "years": "10.2023 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Angular 8/9/10"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "REST API",
+          "HTML",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "CSS",
+          ".Net Web-Based"
         ]
       }
     ]
