@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "odd duck",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "product picker test",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/oddDuck/Screenshot 2023-04-27 170211.jpg",
         ],
-        "url": "",
+        "url": "https://codemell.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,14 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "cookie stand",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "site about salmon cookies",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/cookieStand/Screenshot 2023-04-27 170137.jpg",
+          "images/portfolio/cookieStand/Screenshot 2023-04-27 170158.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://codemell.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -59,7 +58,7 @@
         "startDate": "2023",
         "description": "Group project about making a wedpage for a game. I had to develop a simple game demo. This was also my first group project . I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/Screenshot 2023-04-17 084140.jpg"
+          "images/portfolio/GameDemo/Screenshot 2023-04-17 084140.jpg"
         ],
         "url": "https://codemell.github.io/GameDemo/",
         "technologies": [
